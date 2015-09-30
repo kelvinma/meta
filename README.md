@@ -3,7 +3,7 @@
 ga-wdi-boston/meta
 ==================
 
-Knowledge base and forum for WDI in Boston
+Knowledge base and forum for [WDI](https://generalassemb.ly/education/web-development-immersive) in Boston
 
 Wiki
 ----
