@@ -29,5 +29,5 @@ Do you want to suggest an FAQ or anything else to go in the [wiki](https://githu
 [License](LICENSE)
 ------------------
 
-Source code distributed under the MIT license. Text and ther assets copyright
+Source code distributed under the MIT license. Text and other assets copyright
 General Assembly, Inc., all rights reserved.
