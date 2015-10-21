@@ -1,0 +1,2 @@
+# DEPRECATED
+Please see [ga-wdi-boston/example](https://github.com/ga-wdi-boston/example) for the latest updates or to file an issue.
